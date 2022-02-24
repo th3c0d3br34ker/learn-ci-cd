@@ -32,23 +32,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/th3c0d3br34ker/repo_name">
+  <a href="https://github.com/th3c0d3br34ker/learn-ci-cd">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">CI/CD with GitHub Actions</h3>
 
   <p align="center">
-    project_description
+    A demo of CI/CD with GitHub actions.
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/th3c0d3br34ker/learn-ci-cd"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th3c0d3br34ker/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/th3c0d3br34ker/repo_name/issues">Request Feature</a>
+    <a href="https://th3c0d3br34ker.github.io/learn-ci-cd">View Demo</a>
   </p>
 </p>
 
@@ -70,8 +66,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -81,13 +75,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 ### Built With
 
-- []()
-- []()
-- []()
+- [GiHub Actions](https://github.com/features/actions)
 
 <!-- GETTING STARTED -->
 
@@ -95,20 +85,11 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/th3c0d3br34ker/repo_name.git
+   git clone https://github.com/th3c0d3br34ker/learn-ci-cd.git
    ```
 2. Install NPM packages
    ```sh
@@ -127,7 +108,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/th3c0d3br34ker/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/th3c0d3br34ker/learn-ci-cd/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -136,9 +117,9 @@ See the [open issues](https://github.com/th3c0d3br34ker/repo_name/issues) for a 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
+3. Commit your Changes (`git commit -m 'Add some amazing-feature'`)
+4. Push to the Branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
 <!-- LICENSE -->
@@ -151,25 +132,23 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- []()
-- []()
-- []()
+- [This Course by GitHub Actions](https://codedamn.com/learn/github-actions-ci-cd)
 
 > Made with 💙 by Jainam Desai
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/th3c0d3br34ker/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/th3c0d3br34ker/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/th3c0d3br34ker/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/th3c0d3br34ker/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/th3c0d3br34ker/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/th3c0d3br34ker/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/th3c0d3br34ker/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/th3c0d3br34ker/repo_name/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/repo_name?style=for-the-badge
-[made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/repo_name.svg?style-for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/th3c0d3br34ker/learn-ci-cd.svg?style=for-the-badge
+[contributors-url]: https://github.com/th3c0d3br34ker/learn-ci-cd/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/th3c0d3br34ker/learn-ci-cd.svg?style=for-the-badge
+[forks-url]: https://github.com/th3c0d3br34ker/learn-ci-cd/network/members
+[stars-shield]: https://img.shields.io/github/stars/th3c0d3br34ker/learn-ci-cd.svg?style=for-the-badge
+[stars-url]: https://github.com/th3c0d3br34ker/learn-ci-cd/stargazers
+[issues-shield]: https://img.shields.io/github/issues/th3c0d3br34ker/learn-ci-cd.svg?style=for-the-badge
+[issues-url]: https://github.com/th3c0d3br34ker/learn-ci-cd/issues
+[license-shield]: https://img.shields.io/github/license/th3c0d3br34ker/learn-ci-cd.svg?style=for-the-badge
+[license-url]: https://github.com/th3c0d3br34ker/learn-ci-cd/blob/master/LICENSE.txt
+[made-with-shield]: https://img.shields.io/github/languages/top/th3c0d3br34ker/learn-ci-cd?style=for-the-badge
+[made-with-url]: https://shields.io/github/languages/top/th3c0d3br34ker/learn-ci-cd.svg?style-for-the-badge
 [product-screenshot]: images/screenshot.png
